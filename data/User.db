@@ -1,0 +1,10 @@
+{"id":175844556,"ban_details":{"by_id":72971182,"date":{"$$date":1560858666369},"reason":"zermoft"},"status":"banned","_id":"0MQmOXZRcbHdV1pH"}
+{"status":"member","warns":[],"first_name":"Reza","last_name":"","id":174595218,"username":"ahm9193","_id":"0snM9tEw7725VKuH"}
+{"status":"member","warns":[],"first_name":"Maryam","last_name":"","id":531802170,"username":"maaryamm1","_id":"CWsMzwnzaVPaehy4"}
+{"status":"member","warns":[],"first_name":"Hamid","last_name":"","id":48905160,"username":"abit72","_id":"RpDrgphFiSAJRkj8"}
+{"status":"member","warns":[],"first_name":"¶.hamide.√","last_name":"","id":235003589,"username":"hamide_zi","_id":"UpG7UqpF5XwEueFZ"}
+{"status":"admin","warns":[],"first_name":"Hamid","last_name":"Karimi","id":72971182,"username":"hamf1","_id":"nXkSKYFvIg2JJqWJ"}
+{"status":"member","warns":[],"first_name":"Asqar","last_name":"","id":861114486,"username":"asqar_raeis_bot","_id":"tLpWGwGDOARGXMOo"}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"status","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":true}}

@@ -1,0 +1,6 @@
+{"id":72971182,"name":"hello","state":null,"isActive":true,"_id":"89DkJiB2rhq86Wv8","role":"everyone","content":"Hello","type":"text"}
+{"id":72971182,"name":"test","state":null,"isActive":true,"_id":"uhvndQhr68Lyb5M4","role":"everyone","content":"k","type":"text"}
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
+{"id":72971182,"name":"asqar","state":"role","isActive":false,"_id":"t4nGTlVUCRtLDNlH"}
+{"id":72971182,"name":"asqar","state":"content","isActive":false,"_id":"t4nGTlVUCRtLDNlH","role":"everyone"}
+{"id":72971182,"name":"asqar","state":null,"isActive":true,"_id":"t4nGTlVUCRtLDNlH","role":"everyone","content":"جان اصغر جان","type":"text"}
